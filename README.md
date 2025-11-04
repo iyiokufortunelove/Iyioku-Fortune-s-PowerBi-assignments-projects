@@ -21,3 +21,22 @@ The primary source of data used here is HR data.xlsx and this is was shared by m
 - R (For querying and analysis)
 - PowerBi (For creating a report)
 - MS PowerPoint (for presentation)
+
+### Data Cleaning and Preparation
+In the initial phase of the data cleaning and preparations, we perform the follolwing action;
+1. Data loading and inspection
+2. Handling Missing variables
+3. Data cleaning and formatting
+
+### Exploratory Data Analysis
+EDA involved the exploring of the data to answer some questions about the data such as;
+- What is the overall attrition count?
+-  Which age group migrated the most?
+-  What department had the highest level of attrition?
+
+### Data Analysis
+This is where we include some basic lines of codes or queries or even some of the DAX expressions used during the analysis.
+
+'''  SQL
+ 
+   
