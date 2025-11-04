@@ -35,6 +35,7 @@ EDA involved the exploring of the data to answer some questions about the data s
 -  What department had the highest level of attrition?
 
 ### Data Analysis
+
 This is where we include some basic lines of codes or queries or even some of the DAX expressions used during the analysis.
 
 '''  SQL
