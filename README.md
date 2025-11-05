@@ -9,7 +9,7 @@ I have learnt how to create pie charts, bar charts, maps, cluster column chart a
 This data analysis project aims to generate insights into the attrition status among employees using the HR data, and map data over the past year. I have analysed the data I received by using relevant parameters to gather enough insight which has allowed me to make an evidence-based decision to tell compelling stories from my data and insights gotten, and to determine the distribution of attrtion from the age of employees in the organization.
 
 ### Data Sources
-The primary source of data used here is HR data.xlsx and this is was shared by my personal tutor. Although, this data is an open source data that can be freely downloaded from an open source online such as Kaggle, FRED or any other data repository site. 
+The primary source of data used here is *HR data.xlsx* [Download Here](https://github.com/iyiokufortunelove/R-projects/blob/main/HR%20Data.xlsx) and this was shared by my personal tutor. Although, this data is an open source data that can be freely downloaded from an open source online such as Kaggle, FRED or any other data repository site. 
 
 ### Tools Used
 - MS Excel for Data Cleaning [Download Here](https://www.microsoft.com)
@@ -38,7 +38,7 @@ EDA involved the exploring of the data to answer some questions about the data s
 
 This is where I included some basic lines of codes or queries or even some of the DAX expressions used during the analysis.
 
-R codes [Download here](https://github.com/iyiokufortunelove/R-projects)
+R code [Download here](https://github.com/iyiokufortunelove/R-projects)
 
 -  #### Development Log
 This R document records the steps, iterations, and challenges encountered during the R-based data analysis project.
