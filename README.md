@@ -1,4 +1,4 @@
-# Iyioku-Fortune-s-PowerBi-assignments-projects
+# Iyioku-Fortune-s-PowerBi-Assignments-Projects-Documentation
 This is where I started my portfolio building while taking my Data Analysis class at University of Ibadan, with Udemy and a personal tutor.
 
 I have learnt how to create pie charts, bar charts, maps, stacked column chart and amongst other data visualisation tools on PowerBi.
