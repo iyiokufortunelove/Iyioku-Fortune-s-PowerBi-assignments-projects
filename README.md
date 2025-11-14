@@ -36,5 +36,9 @@ EDA involved the exploring of the data to answer some questions about the data s
 - What is the level of Job satisfaction across the age group.
 
 ### PowerBi Results
+<img width="571" height="497" alt="map 1" src="https://github.com/user-attachments/assets/2e31b06d-0cae-4269-a533-142734b7eacf" />
+<img width="961" height="497" alt="picture 1" src="https://github.com/user-attachments/assets/f3f4f8ee-8204-4bda-af1d-ba5b64f50f39" />
+<img width="721" height="397" alt="picture 2" src="https://github.com/user-attachments/assets/fb27f214-eab8-4132-952f-e72dcfcbabef" />
+<img width="935" height="533" alt="picture 3" src="https://github.com/user-attachments/assets/d0a52ee5-7c64-4b94-85c1-f573e8809ff2" />
 
    
